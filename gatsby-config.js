@@ -1,10 +1,24 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Gatsby Emotion Starter`,
+    description: `Extension of gatsby-starter-default using emotion-theming, emotion-reset, and setting up a useful modular architecture using gatsby-alias-imports`,
+    author: `@jackoliver`,
   },
   plugins: [
+    {
+      resolve: `gatsby-alias-imports`,
+      options: {
+        aliases: {
+          components: `src/components`,
+          config: `src/config`,
+          images: `src/images`,
+          layouts: `src/layouts`,
+          modules: `src/modules`,
+          pages: `src/pages`,
+        },
+      },
+    },
+    `gatsby-plugin-emotion`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,

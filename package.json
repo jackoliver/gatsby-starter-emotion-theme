@@ -1,12 +1,18 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "gatsby-starter-emotion",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Extension of gatsby-starter-default using emotion-theming, emotion-reset, and setting up a useful modular architecture using gatsby-alias-imports",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Jack Oliver <jack@jv-la.com>",
   "dependencies": {
+    "@emotion/core": "^10.0.28",
+    "@emotion/styled": "^10.0.27",
+    "emotion-reset": "^2.0.7",
+    "emotion-theming": "^10.0.27",
     "gatsby": "^2.23.12",
+    "gatsby-alias-imports": "^1.0.4",
     "gatsby-image": "^2.4.9",
+    "gatsby-plugin-emotion": "^4.3.6",
     "gatsby-plugin-manifest": "^2.4.14",
     "gatsby-plugin-offline": "^3.2.13",
     "gatsby-plugin-react-helmet": "^3.3.6",
@@ -22,7 +28,11 @@
     "prettier": "2.0.5"
   },
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "emotion",
+    "emotion-theming",
+    "emotion-reset",
+    "css-in-js"
   ],
   "license": "MIT",
   "scripts": {
@@ -36,9 +46,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/jackoliver/gatsby-starter-emotion"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/jackoliver/gatsby-starter-emotion/issues"
   }
 }

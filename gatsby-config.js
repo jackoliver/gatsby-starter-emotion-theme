@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Emotion Starter`,
+    title: `Gatsby Emotion Theme Starter`,
     description: `Extension of gatsby-starter-default using emotion-theming, emotion-reset, and setting up a useful modular architecture using gatsby-alias-imports`,
     author: `@jackoliver`,
   },

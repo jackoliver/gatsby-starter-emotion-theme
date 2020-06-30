@@ -1,13 +1,13 @@
 
-# gatsby-starter-emotion
+# gatsby-starter-emotion-theme
 
 An extension of the `gatsby-starter-default` repository, made to get up and running quicker with standard marketing microsites.
 
 ## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jackoliver/gatsby-starter-emotion)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jackoliver/gatsby-starter-emotion-theme)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/jackoliver/gatsby-starter-emotion)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/jackoliver/gatsby-starter-emotion-theme)
 
 ## 🚀 Quick start
 
@@ -17,7 +17,7 @@ An extension of the `gatsby-starter-default` repository, made to get up and runn
 
     ```shell
     # create a new Gatsby site using this starter
-    gatsby new my-default-starter https://github.com/jackoliver/gatsby-starter-emotion
+    gatsby new my-default-starter https://github.com/jackoliver/gatsby-starter-emotion-theme
     ```
 
 2.  **Start developing.**

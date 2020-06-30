@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-emotion",
+  "name": "gatsby-starter-emotion-theme",
   "private": true,
   "description": "Extension of gatsby-starter-default using emotion-theming, emotion-reset, and setting up a useful modular architecture using gatsby-alias-imports",
   "version": "0.1.0",
@@ -46,9 +46,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackoliver/gatsby-starter-emotion"
+    "url": "https://github.com/jackoliver/gatsby-starter-emotion-theme"
   },
   "bugs": {
-    "url": "https://github.com/jackoliver/gatsby-starter-emotion/issues"
+    "url": "https://github.com/jackoliver/gatsby-starter-emotion-theme/issues"
   }
 }

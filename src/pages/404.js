@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import { jsx, css } from "@emotion/core"
+import { jsx } from "@emotion/core"
 import { useTheme } from "emotion-theming"
 import { Link } from "gatsby"
 

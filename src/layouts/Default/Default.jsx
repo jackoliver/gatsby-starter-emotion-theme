@@ -7,7 +7,7 @@
 
 /** @jsx jsx */
 import { jsx, css } from "@emotion/core"
-import { useTheme } from "emotion-theming"
+
 import { Fragment } from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
@@ -25,7 +25,6 @@ const Default = ({ children }) => {
     }
   `)
 
-  const theme = useTheme()
   const styles = css``
 
   return (

@@ -24,7 +24,7 @@ const Header = ({ siteTitle }) => {
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://github.com/jackoliver/gatsby-emotion-starter-theme"
+          href="https://github.com/jackoliver/gatsby-starter-emotion-theme"
         >
           GitHub
         </a>

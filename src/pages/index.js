@@ -39,9 +39,9 @@ const IndexPage = () => {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://github.com/jackoliver/gatsby-emotion-starter-theme"
+            href="https://github.com/jackoliver/gatsby-starter-emotion-theme"
           >
-            gatsby-emotion-starter-theme
+            gatsby-starter-emotion-theme
           </a>
         </h5>
         <TagContainer title="plugins">
